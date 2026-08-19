@@ -1,0 +1,826 @@
+{
+  "加速主义": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "加速主义"
+  },
+  "加速主义鉴政手册": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "加速主义鉴政手册"
+  },
+  "马列社会主义": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "马列社会主义"
+  },
+  "社会-加速主义": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 3,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "社会-加速主义"
+  },
+  "远视主义": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "远视主义"
+  },
+  "乐观技术加速主义": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "乐观技术加速主义"
+  },
+  "防御技术加速主义": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "防御技术加速主义"
+  },
+  "有效技术加速主义": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "有效技术加速主义"
+  },
+  "无条件技术加速主义": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "无条件技术加速主义"
+  },
+  "法西斯主义": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "法西斯主义"
+  },
+  "黑暗启蒙/新反动主义": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "黑暗启蒙/新反动主义"
+  },
+  "封建君主制": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "封建君主制"
+  },
+  "民主政治": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "民主政治"
+  },
+  "大教堂": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "大教堂"
+  },
+  "解辖域化": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "解辖域化"
+  },
+  "互联网加速主义": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "互联网加速主义"
+  },
+  "性别与种族加速主义": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "性别与种族加速主义"
+  },
+  "中国加速主义": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "中国加速主义"
+  },
+  "加速创造": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "加速创造"
+  },
+  "加速毁灭": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "加速毁灭"
+  },
+  "计划经济": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "计划经济"
+  },
+  "资本主义": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-003"
+    ],
+    "count": 4,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "资本主义"
+  },
+  "社会主义": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 3,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "社会主义"
+  },
+  "学校": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "学校"
+  },
+  "公共洗衣机": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "公共洗衣机"
+  },
+  "女生宿舍": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "女生宿舍"
+  },
+  "男生宿舍": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "男生宿舍"
+  },
+  "意识形态宗教": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "意识形态宗教"
+  },
+  "新反动主义": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "新反动主义"
+  },
+  "封建君主专制": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "封建君主专制"
+  },
+  "高等教育": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "高等教育"
+  },
+  "新闻媒体": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "新闻媒体"
+  },
+  "末世论": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "末世论"
+  },
+  "反生产": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "反生产"
+  },
+  "时间扭曲": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "时间扭曲"
+  },
+  "零加速主义": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "零加速主义"
+  },
+  "有效利他主义": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "有效利他主义"
+  },
+  "技术进步主张": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "技术进步主张"
+  },
+  "科学技术": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "科学技术"
+  },
+  "人类": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-003"
+    ],
+    "count": 3,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "人类"
+  },
+  "人的主体性": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "人的主体性"
+  },
+  "矛盾": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "矛盾"
+  },
+  "加速主义者": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "加速主义者"
+  },
+  "社会主义国家": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "社会主义国家"
+  },
+  "生产力": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "生产力"
+  },
+  "全球分工": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "全球分工"
+  },
+  "工人": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "工人"
+  },
+  "资本": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "资本"
+  },
+  "暴力革命派": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "暴力革命派"
+  },
+  "议会改革派": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "议会改革派"
+  },
+  "金融海啸": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "金融海啸"
+  },
+  "资本主义阵营内部战争": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "资本主义阵营内部战争"
+  },
+  "大萧条": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "大萧条"
+  },
+  "飞行汽车": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "飞行汽车"
+  },
+  "140个字的字数限制": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "140个字的字数限制"
+  },
+  "机器": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "机器"
+  },
+  "社会-加速主义者": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "社会-加速主义者"
+  },
+  "旧系统": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "旧系统"
+  },
+  "无条件加速主义": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "无条件加速主义"
+  },
+  "科技生产力": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "科技生产力"
+  },
+  "工程师治国": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "工程师治国"
+  },
+  "技术": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "技术"
+  },
+  "技术发展": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "技术发展"
+  },
+  "技术加速": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "技术加速"
+  },
+  "科技领域": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "科技领域"
+  },
+  "人工智能": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "人工智能"
+  },
+  "星际文明": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "星际文明"
+  },
+  "社会": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "社会"
+  },
+  "大政府": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "大政府"
+  },
+  "国家": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "国家"
+  },
+  "国家-资本-市场三方机制": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "国家-资本-市场三方机制"
+  },
+  "民主": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "民主"
+  },
+  "民选政治": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "民选政治"
+  },
+  "精英": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "精英"
+  },
+  "凯撒": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "凯撒"
+  },
+  "民众": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "民众"
+  },
+  "大多数人": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "大多数人"
+  },
+  "资本主义国家": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "资本主义国家"
+  },
+  "社会主义工人革命": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "社会主义工人革命"
+  },
+  "英雄史观": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "英雄史观"
+  },
+  "当代社会": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "当代社会"
+  },
+  "太空探索": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "太空探索"
+  },
+  "生物医药": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "生物医药"
+  },
+  "君主制": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "君主制"
+  },
+  "黑暗启蒙": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "黑暗启蒙"
+  },
+  "沉默的大多数": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "沉默的大多数"
+  },
+  "资本主义的内在矛盾": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "资本主义的内在矛盾"
+  },
+  "内生的矛盾": {
+    "chunk_ids": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1787108170,
+    "update_time": 1787108170,
+    "_id": "内生的矛盾"
+  }
+}

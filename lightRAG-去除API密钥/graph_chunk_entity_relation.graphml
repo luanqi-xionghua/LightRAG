@@ -1,0 +1,2023 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="truncate" attr.type="string"/>
+<key id="d12" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d11" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d10" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d9" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d8" for="edge" attr.name="description" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="truncate" attr.type="string"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="加速主义">
+  <data key="d0">加速主义</data>
+  <data key="d1">concept</data>
+  <data key="d2">一种意识形态光谱，包含多个派别；核心诉求是从现实矛盾出发，通过不断激化矛盾迫使所有人解决矛盾或毁灭旧系统；其加速体现在加速创造和加速毁灭两方面。&lt;SEP&gt;一种思想派别，主张技术或系统本身就是目的，放弃人的主体性，通过激化矛盾或加速技术发展实现旧系统升级或矛盾消除；内部不同派别在相关主张上的权重不同。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="加速主义鉴政手册">
+  <data key="d0">加速主义鉴政手册</data>
+  <data key="d1">content</data>
+  <data key="d2">一份对加速主义意识形态光谱进行学术分析的手册，声明不代表作者政治观点。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="马列社会主义">
+  <data key="d0">马列社会主义</data>
+  <data key="d1">concept</data>
+  <data key="d2">在表格中被列为非加速主义派别，作为加速主义意识形态光谱坐标系的参考。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="社会-加速主义">
+  <data key="d0">社会-加速主义</data>
+  <data key="d1">concept</data>
+  <data key="d2">加速主义光谱中的左翼派别，主张在社会主义框架下推动加速资本主义灭亡，并被认为追求计划经济模式的现代回归。&lt;SEP&gt;加速主义的一个派别，认为资本主义尚未消亡、生产力不够发达，主张加速科技发展、激发资本主义内生矛盾和工人-资本矛盾，以实现从资本主义向社会主义过渡并建设社会主义。&lt;SEP&gt;一种主张通过激化工人与资本的矛盾、采取激进方法进入社会主义的思想流派，内部分为暴力革命派与议会改革派，在建设社会主义问题上被描述为计划经济的反人类主体版本。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-001&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="远视主义">
+  <data key="d0">远视主义</data>
+  <data key="d1">concept</data>
+  <data key="d2">加速主义光谱中的偏左派别，被视为有效技术加速主义的主要对立分支。&lt;SEP&gt;一种主张由国家主导并加速科技领域发展、以技术倒逼社会改变的意识形态，认为真正的远见在于创造未来，不完全赞同计划经济，支持国家-资本-市场三方机制。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="乐观技术加速主义">
+  <data key="d0">乐观技术加速主义</data>
+  <data key="d1">concept</data>
+  <data key="d2">加速主义光谱中的偏中立派别，被视为有效技术加速主义的主要依附分支。&lt;SEP&gt;一种承认技术加速有危险但反对给技术加速设置过多限制的思想流派，认为目前对技术的限制过多。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="防御技术加速主义">
+  <data key="d0">防御技术加速主义</data>
+  <data key="d1">concept</data>
+  <data key="d2">加速主义光谱中的中立派别，被视为有效技术加速主义的主要依附分支。&lt;SEP&gt;一种主张无条件的技术发展是危险的、应当对技术发展有所限制的思想流派。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="有效技术加速主义">
+  <data key="d0">有效技术加速主义</data>
+  <data key="d1">concept</data>
+  <data key="d2">加速主义光谱中的偏右派别，被认为是主流加速主义最初的形态。&lt;SEP&gt;一种主张加速是当代社会的唯一美德的思想流派。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="无条件技术加速主义">
+  <data key="d0">无条件技术加速主义</data>
+  <data key="d1">concept</data>
+  <data key="d2">加速主义光谱中的右翼派别，被认为是有效技术加速主义的plus版本。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="法西斯主义">
+  <data key="d0">法西斯主义</data>
+  <data key="d1">concept</data>
+  <data key="d2">在表格中被列为非加速主义派别，作为加速主义意识形态光谱坐标系的参考。&lt;SEP&gt;一种主体仍是人类、用极端暴力维护特定群体利益，并在资本主义国家内部崩溃时向外掠夺奴役以缓解危机的政治思想。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="黑暗启蒙/新反动主义">
+  <data key="d0">黑暗启蒙/新反动主义</data>
+  <data key="d1">concept</data>
+  <data key="d2">加速主义光谱中的极右派别，被认为是封建君主制的现代回归，并提出大教堂等术语。&lt;SEP&gt;一种认为民主只是历史例外、资本主义不断堕落，主张依靠凯撒与人工智能淘汰大多数人以挽救资本主义的思想流派，本质被描述为将技术异化为淘汰人类的工具。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="封建君主制">
+  <data key="d0">封建君主制</data>
+  <data key="d1">concept</data>
+  <data key="d2">一种君主专制政治体制；在文本中被民主政治所取代，并被黑暗启蒙/新反动主义视为应回归的旧制度。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="民主政治">
+  <data key="d0">民主政治</data>
+  <data key="d1">concept</data>
+  <data key="d2">一种政治制度；在黑暗启蒙/新反动主义的论述中被认为自取代封建君主专制后成为新的意识形态宗教。&lt;SEP&gt;一种政治制度，被新反动主义视为取代封建君主专制后形成的意识形态宗教；高等教育和新闻媒体对其多加赞扬。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="大教堂">
+  <data key="d0">大教堂</data>
+  <data key="d1">concept</data>
+  <data key="d2">黑暗启蒙/新反动主义使用的术语，统称所有赞扬民主政治的高等教育和新闻媒体。&lt;SEP&gt;新反动主义创造的术语，用来统称所有赞扬民主政治的高等教育与新闻媒体，将其视为新的意识形态宗教。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="解辖域化">
+  <data key="d0">解辖域化</data>
+  <data key="d1">concept</data>
+  <data key="d2">加速主义术语，指不断加速的正循环，并最终迎来新生或毁灭。&lt;SEP&gt;加速主义部分主要术语之一，指不断加速的正循环，并最终迎来新生或毁灭。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="互联网加速主义">
+  <data key="d0">互联网加速主义</data>
+  <data key="d1">concept</data>
+  <data key="d2">加速主义在其他领域的一种派别，主张通过互联网放大劳资矛盾、性别矛盾等一切矛盾，在激烈冲突后迫使社会直视并解决问题。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="性别与种族加速主义">
+  <data key="d0">性别与种族加速主义</data>
+  <data key="d1">concept</data>
+  <data key="d2">加速主义在其他领域的一种派别，将性别和种族解构为资本加速的一部分，主张通过资本加速解决性别与种族歧视。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="中国加速主义">
+  <data key="d0">中国加速主义</data>
+  <data key="d1">concept</data>
+  <data key="d2">特定语境下对中国基建/技术国家主义的加速主义解读视角。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="加速创造">
+  <data key="d0">加速创造</data>
+  <data key="d1">concept</data>
+  <data key="d2">加速主义的一种加速表现，指加速系统中某些因素(通常是科学技术)的发展，最终实现旧系统的崩溃或矛盾的消除，然后建立新系统。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="加速毁灭">
+  <data key="d0">加速毁灭</data>
+  <data key="d1">concept</data>
+  <data key="d2">加速主义的一种加速表现，指加速激化系统内部矛盾，直至系统崩溃或矛盾消除，然后建立新系统。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="计划经济">
+  <data key="d0">计划经济</data>
+  <data key="d1">concept</data>
+  <data key="d2">一种经济模式，被社会-加速主义视为可进行现代回归的计划经济模式。&lt;SEP&gt;一种由中央计划控制各行业发展的经济模式，社会-加速主义在建设社会主义时主张像计划经济一样完全控制行业发展；社会-加速主义被称为计划经济的反人类主体版本。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="资本主义">
+  <data key="d0">资本主义</data>
+  <data key="d1">concept</data>
+  <data key="d2">一种社会经济制度，文本中认为其存在内生矛盾，并被黑暗启蒙/新反动主义试图拯救。&lt;SEP&gt;一种社会经济制度；社会-加速主义认为其尚未消亡，并主张激发其内生矛盾以加速其灭亡和实现社会主义过渡。&lt;SEP&gt;一种社会经济制度；社会-加速主义主张在社会主义框架下支持加速资本主义的灭亡。&lt;SEP&gt;一种社会制度，为避免被社会主义取代而选择自废武功、不断堕落，面对危机与社会主义崛起时可能转向凯撒式统治与用技术淘汰大多数人。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-001&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="社会主义">
+  <data key="d0">社会主义</data>
+  <data key="d1">concept</data>
+  <data key="d2">一种社会制度；社会-加速主义认为其需要发达的生产力作为成立条件，并主张通过发展科技生产力进行建设。&lt;SEP&gt;一种社会制度与意识形态框架；社会-加速主义在此框架下提出加速主义构想，并追求计划经济模式的现代回归。&lt;SEP&gt;一种社会制度，是资本主义的替代者，也是社会-加速主义试图进入和建设的对象。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-001&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="学校">
+  <data key="d0">学校</data>
+  <data key="d1">organization</data>
+  <data key="d2">故事中的高校机构；学生因公共洗衣机供不应求向学校反应但无果，后因舆情发酵介入并购置新的洗衣机。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="公共洗衣机">
+  <data key="d0">公共洗衣机</data>
+  <data key="d1">artifact</data>
+  <data key="d2">放置在宿舍区的共享洗衣设备；男生宿舍和女生宿舍各有10台，是故事中矛盾与加速升级的核心物件。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="女生宿舍">
+  <data key="d0">女生宿舍</data>
+  <data key="d1">location</data>
+  <data key="d2">故事中女生居住的宿舍楼；拥有10台公共洗衣机，因女生洗衣需求较大导致供不应求。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="男生宿舍">
+  <data key="d0">男生宿舍</data>
+  <data key="d1">location</data>
+  <data key="d2">故事中男生居住的宿舍楼；拥有10台公共洗衣机，因“女生使用”标签事件导致可用洗衣机数量减少。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="意识形态宗教">
+  <data key="d0">意识形态宗教</data>
+  <data key="d1">concept</data>
+  <data key="d2">黑暗启蒙/新反动主义对民主政治的评价，认为民主政治自取代封建君主专制后成为类似宗教的意识形态。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="新反动主义">
+  <data key="d0">新反动主义</data>
+  <data key="d1">concept</data>
+  <data key="d2">一种政治思潮，在文本中与黑暗启蒙并列，指代同一思想。主张将技术异化为淘汰人类的工具，将技术的铁拳对准沉默的大多数，呼吁凯撒以避免民主对技术的限制，从而将技术加速到反人类的地步，并拯救资本主义。&lt;SEP&gt;一种政治思想，认为民主政治自取代封建君主专制后已成为新的意识形态宗教，并将赞扬民主政治的高等教育与新闻媒体统称为大教堂。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="封建君主专制">
+  <data key="d0">封建君主专制</data>
+  <data key="d1">concept</data>
+  <data key="d2">一种旧政治制度，被民主政治所取代，是新反动主义论述民主政治成为意识形态宗教的对照背景。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="高等教育">
+  <data key="d0">高等教育</data>
+  <data key="d1">organization</data>
+  <data key="d2">教育体系中的高层次机构，被新反动主义归入“大教堂”的组成部分，被认为赞扬民主政治。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="新闻媒体">
+  <data key="d0">新闻媒体</data>
+  <data key="d1">organization</data>
+  <data key="d2">传播新闻和信息的机构，被新反动主义归入“大教堂”的组成部分，被认为赞扬民主政治。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="末世论">
+  <data key="d0">末世论</data>
+  <data key="d1">concept</data>
+  <data key="d2">加速主义部分主要术语之一，指加速常带有文明毁灭或跃迁至新形态的终结叙事色彩。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="反生产">
+  <data key="d0">反生产</data>
+  <data key="d1">concept</data>
+  <data key="d2">加速主义部分主要术语之一，指系统内部的消耗与毁灭冲动，加速主义将其视为创造性破坏。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="时间扭曲">
+  <data key="d0">时间扭曲</data>
+  <data key="d1">concept</data>
+  <data key="d2">加速主义部分主要术语之一，指未来对现在的“殖民”，认为未来通过技术折叠回现在而非线性到来。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="零加速主义">
+  <data key="d0">零加速主义</data>
+  <data key="d1">concept</data>
+  <data key="d2">加速主义的主要批判者之一，对加速本身进行元批判，倾向于停滞或减速。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="有效利他主义">
+  <data key="d0">有效利他主义</data>
+  <data key="d1">concept</data>
+  <data key="d2">加速主义的主要批判者之一，反对加速主义的集权倾向与反人类倾向。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="技术进步主张">
+  <data key="d0">技术进步主张</data>
+  <data key="d1">concept</data>
+  <data key="d2">一种与加速主义“同途殊归”的主张，推动科学技术发展以提高生产效率，本质是将人从机器上解放出来，技术服务于人类。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="科学技术">
+  <data key="d0">科学技术</data>
+  <data key="d1">concept</data>
+  <data key="d2">在文本中指技术或系统；技术进步主张将其视为服务人类、提高生产效率的工具，加速主义将其或系统本身视为目的。&lt;SEP&gt;远视主义认为发展缓慢并拖累人类社会整体发展的对象，是需要由国家主导加速的领域。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="人类">
+  <data key="d0">人类</data>
+  <data key="d1">other</data>
+  <data key="d2">作为整体被技术淘汰并受到反人类技术加速影响的群体。&lt;SEP&gt;在加速主义视角下被视为技术为实现自身进步而利用的载体；技术进步主张则强调以人为本，技术服务于人。&lt;SEP&gt;人类整体或人类社会，远视主义认为科学技术缓慢发展拖慢了人类社会发展，黑暗启蒙/新反动主义认为民主限制了人类发展并用技术淘汰大多数人。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="人的主体性">
+  <data key="d0">人的主体性</data>
+  <data key="d1">concept</data>
+  <data key="d2">人作为主体、技术服务于人的地位；加速主义被指放弃并始终否认人的主体性。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="矛盾">
+  <data key="d0">矛盾</data>
+  <data key="d1">concept</data>
+  <data key="d2">社会冲突或系统弊端；加速主义主张通过不断激化矛盾或加速技术发展实现旧系统升级或矛盾消除。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="加速主义者">
+  <data key="d0">加速主义者</data>
+  <data key="d1">person</data>
+  <data key="d2">声称或信奉加速主义的人；文本指出互联网上众多所谓“加速主义者”并不了解加速主义本质，其实只是支持技术进步，并非真正的加速主义者。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="社会主义国家">
+  <data key="d0">社会主义国家</data>
+  <data key="d1">organization</data>
+  <data key="d2">已经建立社会主义制度的国家；社会-加速主义认为现存社会主义国家因生产力不发达参与全球分工，导致社会主义向资本妥协。&lt;SEP&gt;实行社会主义制度的国家，黑暗启蒙/新反动主义主张凯撒对外向社会主义国家重拳出击。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="生产力">
+  <data key="d0">生产力</data>
+  <data key="d1">concept</data>
+  <data key="d2">社会发展的物质力量；社会-加速主义认为其不够发达，主张加速科技发展以推动生产力，并大力发展科技生产力。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="全球分工">
+  <data key="d0">全球分工</data>
+  <data key="d1">concept</data>
+  <data key="d2">经济全球化中的国际分工体系；社会-加速主义认为生产力不发达使社会主义国家必须参与其中，从而向资本妥协。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="工人">
+  <data key="d0">工人</data>
+  <data key="d1">person</data>
+  <data key="d2">资本主义生产关系中的劳动者群体；社会-加速主义主张激化工人与资本之间的矛盾，引导或迫使工人反抗。&lt;SEP&gt;与资本对立的社会群体，社会-加速主义主张激化工人与资本间的矛盾，使工人主动或被动反抗。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="资本">
+  <data key="d0">资本</data>
+  <data key="d1">concept</data>
+  <data key="d2">与工人相对的生产关系主体；社会-加速主义认为需要激化工人-资本间的矛盾，并指出社会主义国家会因全球分工向资本妥协。&lt;SEP&gt;与工人对立的经济力量，社会-加速主义主张激化工人与资本间的矛盾。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="暴力革命派">
+  <data key="d0">暴力革命派</data>
+  <data key="d1">concept</data>
+  <data key="d2">社会-加速主义内部对待从资本主义到社会主义过渡问题的派别之一，主张暴力革命。&lt;SEP&gt;社会-加速主义内部对待如何进入社会主义问题的派别之一。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="议会改革派">
+  <data key="d0">议会改革派</data>
+  <data key="d1">concept</data>
+  <data key="d2">社会-加速主义内部对待从资本主义到社会主义过渡问题的派别之一，主张议会改革。&lt;SEP&gt;社会-加速主义内部对待如何进入社会主义问题的派别之一。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="金融海啸">
+  <data key="d0">金融海啸</data>
+  <data key="d1">event</data>
+  <data key="d2">严重金融危机事件；社会-加速主义主张通过引发金融海啸等方式激发资本主义内生矛盾。&lt;SEP&gt;输入文本中提到的一种全球性金融危机，可能由社会-加速主义引发，以激化资本主义阵营的矛盾。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="资本主义阵营内部战争">
+  <data key="d0">资本主义阵营内部战争</data>
+  <data key="d1">event</data>
+  <data key="d2">资本主义国家阵营内部的战争冲突；社会-加速主义主张通过此类事件激发资本主义内生矛盾。&lt;SEP&gt;输入文本中提到的一种资本主义阵营内部冲突，被视为社会-加速主义可能引发的乱局之一。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="大萧条">
+  <data key="d0">大萧条</data>
+  <data key="d1">event</data>
+  <data key="d2">资本主义世界的严重经济危机；在加速主义笑话中，加速主义者赞赏其加速资本主义灭亡、对工人有利。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="飞行汽车">
+  <data key="d0">飞行汽车</data>
+  <data key="d1">artifact</data>
+  <data key="d2">社会-加速主义宣言中渴望的技术产品，代表真正的技术进步；“我们想要的是飞行汽车，得到的却是140个字的字数限制。”</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="140个字的字数限制">
+  <data key="d0">140个字的字数限制</data>
+  <data key="d1">concept</data>
+  <data key="d2">社交媒体平台中限制内容长度的规则；社会-加速主义宣言用它指代现实中的技术产品与理想之间的落差。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="机器">
+  <data key="d0">机器</data>
+  <data key="d1">artifact</data>
+  <data key="d2">人类创造并使用的机械设备；技术进步主张主张将人从机器上解放出来，加速主义则主张让机器脱离人的束缚、彻底咆哮。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="社会-加速主义者">
+  <data key="d0">社会-加速主义者</data>
+  <data key="d1">person</data>
+  <data key="d2">信奉社会-加速主义的人群；其认为资本主义尚且未消亡、生产力仍不够发达，并主张加速科技发展、激发资本主义内生矛盾与工人-资本矛盾以实现社会主义过渡。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="旧系统">
+  <data key="d0">旧系统</data>
+  <data key="d1">concept</data>
+  <data key="d2">现存具有弊端、有待升级的旧制度或旧体系；加速主义主张面对其弊端时放弃人的主体地位，通过激化矛盾或加速技术发展实现旧系统的升级或矛盾的消除。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="无条件加速主义">
+  <data key="d0">无条件加速主义</data>
+  <data key="d1">concept</data>
+  <data key="d2">一种主张需要一个目标且目标就在现在的加速主义思想流派。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="科技生产力">
+  <data key="d0">科技生产力</data>
+  <data key="d1">concept</data>
+  <data key="d2">社会主义建设中主张大力发展的对象，与反对给技术发展设置限制相关。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="工程师治国">
+  <data key="d0">工程师治国</data>
+  <data key="d1">concept</data>
+  <data key="d2">一种主张由各行业专家组成智囊团、像计划经济一样完全控制行业发展的治理方式。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="技术">
+  <data key="d0">技术</data>
+  <data key="d1">concept</data>
+  <data key="d2">在文本中被黑暗启蒙/新反动主义异化为淘汰人类的工具，并被加速到反人类地步的对象。&lt;SEP&gt;多个加速主义流派关注的核心对象，可以被加速或限制，也被黑暗启蒙/新反动主义用作淘汰人类的工具。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="技术发展">
+  <data key="d0">技术发展</data>
+  <data key="d1">concept</data>
+  <data key="d2">技术不断进步的过程，多个思想流派围绕是否应对技术发展设置限制展开争论。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="技术加速">
+  <data key="d0">技术加速</data>
+  <data key="d1">concept</data>
+  <data key="d2">对技术进行加速的过程，乐观技术加速主义认为其有危险但限制过多，黑暗启蒙/新反动主义主张将技术加速到反人类的地步。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="科技领域">
+  <data key="d0">科技领域</data>
+  <data key="d1">concept</data>
+  <data key="d2">远视主义关注的科技发展领域，主张由国家主导并加速其发展。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="人工智能">
+  <data key="d0">人工智能</data>
+  <data key="d1">concept</data>
+  <data key="d2">一种技术系统，远视主义者赞赏其发展速度，黑暗启蒙/新反动主义主张用不断加速的人工智能替换大多数人以防范民选对精英的限制。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="星际文明">
+  <data key="d0">星际文明</data>
+  <data key="d1">concept</data>
+  <data key="d2">人类尚未成长到的文明阶段，远视主义者认为落后的科学技术是阻碍人类成为星际文明的原因。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="社会">
+  <data key="d0">社会</data>
+  <data key="d1">concept</data>
+  <data key="d2">人类生活的共同体，远视主义希望通过技术突破改变整体社会，黑暗启蒙/新反动主义主张精英控制社会。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="大政府">
+  <data key="d0">大政府</data>
+  <data key="d1">concept</data>
+  <data key="d2">一种由政府主导社会发展的治理模式，远视主义主张以大政府方式主导科技领域发展。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="国家">
+  <data key="d0">国家</data>
+  <data key="d1">organization</data>
+  <data key="d2">政治实体，远视主义主张由国家主导并加速科技领域发展，黑暗启蒙/新反动主义主张凯撒对外向社会主义国家重拳出击。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="国家-资本-市场三方机制">
+  <data key="d0">国家-资本-市场三方机制</data>
+  <data key="d1">concept</data>
+  <data key="d2">远视主义内部更主张的国家、资本与市场三方协作机制，而不是完全的计划经济模式。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="民主">
+  <data key="d0">民主</data>
+  <data key="d1">concept</data>
+  <data key="d2">一种政治制度或原则，在文本中构成对技术的限制。&lt;SEP&gt;一种政治制度，黑暗启蒙/新反动主义认为民主只是历史例外，并认为民主限制精英对社会的控制和对技术的使用。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="民选政治">
+  <data key="d0">民选政治</data>
+  <data key="d1">concept</data>
+  <data key="d2">一种选举政治形式，黑暗启蒙/新反动主义认为低效臃肿的民选政治导致资本主义堕落，并限制精英对社会的控制。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="精英">
+  <data key="d0">精英</data>
+  <data key="d1">concept</data>
+  <data key="d2">社会中的少数统治群体，黑暗启蒙/新反动主义认为民主政治与民选限制了精英对社会的控制，进而限制人类发展。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="凯撒">
+  <data key="d0">凯撒</data>
+  <data key="d1">person</data>
+  <data key="d2">被黑暗启蒙/新反动主义呼吁的人物，目的是避免民主对技术的限制。&lt;SEP&gt;强权统治者的代称，黑暗启蒙/新反动主义主张资本主义需要一个凯撒对内镇压民众、加速科技，对外打击社会主义国家，并避免民主对技术的限制。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="民众">
+  <data key="d0">民众</data>
+  <data key="d1">concept</data>
+  <data key="d2">被凯撒暴力镇压的社会群体。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="大多数人">
+  <data key="d0">大多数人</data>
+  <data key="d1">concept</data>
+  <data key="d2">被人工智能替换和淘汰的群体，黑暗启蒙/新反动主义用技术淘汰大多数人以避免社会主义工人革命。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="资本主义国家">
+  <data key="d0">资本主义国家</data>
+  <data key="d1">organization</data>
+  <data key="d2">出现内部崩溃并可能转向法西斯主义或黑暗启蒙/新反动主义的国家。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="社会主义工人革命">
+  <data key="d0">社会主义工人革命</data>
+  <data key="d1">event</data>
+  <data key="d2">可能由社会主义取代资本主义过程中出现的工人革命，黑暗启蒙/新反动主义试图用技术淘汰大多数人以避免该革命。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="英雄史观">
+  <data key="d0">英雄史观</data>
+  <data key="d1">concept</data>
+  <data key="d2">一种认为历史由英雄或精英推动的历史观，黑暗启蒙/新反动主义基于此认为民主限制精英从而限制人类发展。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="当代社会">
+  <data key="d0">当代社会</data>
+  <data key="d1">concept</data>
+  <data key="d2">有效技术加速主义所称加速是唯一美德的社会阶段。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="太空探索">
+  <data key="d0">太空探索</data>
+  <data key="d1">concept</data>
+  <data key="d2">远视主义者重点关注并希望加速发展的科技领域之一。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="生物医药">
+  <data key="d0">生物医药</data>
+  <data key="d1">concept</data>
+  <data key="d2">远视主义者重点关注并希望加速发展的科技领域之一。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="君主制">
+  <data key="d0">君主制</data>
+  <data key="d1">concept</data>
+  <data key="d2">一种由君主统治的政治制度；黑暗启蒙/新反动主义宣言认为古代大多数时候是君主制。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="黑暗启蒙">
+  <data key="d0">黑暗启蒙</data>
+  <data key="d1">concept</data>
+  <data key="d2">一种思想潮流，与新反动主义同义使用。其本质是将技术异化为淘汰人类的工具，将技术的铁拳对准沉默的大多数，呼吁凯撒以加速技术到反人类的地步，并试图将资本主义从内生矛盾中拯救出来。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="沉默的大多数">
+  <data key="d0">沉默的大多数</data>
+  <data key="d1">other</data>
+  <data key="d2">被黑暗启蒙/新反动主义通过技术的铁拳所针对的普通大众群体。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="资本主义的内在矛盾">
+  <data key="d0">资本主义的内在矛盾</data>
+  <data key="d1">concept</data>
+  <data key="d2">资本主义制度内部固有的矛盾，使资本主义需要被拯救。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<node id="内生的矛盾">
+  <data key="d0">内生的矛盾</data>
+  <data key="d1">concept</data>
+  <data key="d2">资本主义内部固有的矛盾，在文本中被描述为资本主义的内生矛盾，是资本主义需要被拯救的原因。</data>
+  <data key="d3">doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1787108170</data>
+  <data key="d6"></data>
+</node>
+<edge source="加速主义" target="社会-加速主义">
+  <data key="d7">2.0</data>
+  <data key="d8">社会-加速主义是表格所列的主流加速主义派别之一，属于加速主义意识形态光谱的左翼。&lt;SEP&gt;社会-加速主义是加速主义的一个派别，与加速主义总体主张一致，但内部对不同主张的权重不同。</data>
+  <data key="d9">属于,左翼派别,派别</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="远视主义">
+  <data key="d7">1.0</data>
+  <data key="d8">远视主义是加速主义派别之一，位于意识形态光谱偏左位置。</data>
+  <data key="d9">偏左派别,属于</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="乐观技术加速主义">
+  <data key="d7">1.0</data>
+  <data key="d8">乐观技术加速主义是加速主义派别之一，位于意识形态光谱偏中立位置。</data>
+  <data key="d9">偏中立派别,属于</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="防御技术加速主义">
+  <data key="d7">1.0</data>
+  <data key="d8">防御技术加速主义是加速主义派别之一，位于意识形态光谱中立位置。</data>
+  <data key="d9">中立派别,属于</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="有效技术加速主义">
+  <data key="d7">1.0</data>
+  <data key="d8">有效技术加速主义是加速主义派别之一，被认为是主流加速主义最初的形态，位于意识形态光谱偏右位置。</data>
+  <data key="d9">属于,最初形态</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="无条件技术加速主义">
+  <data key="d7">1.0</data>
+  <data key="d8">无条件技术加速主义是加速主义派别之一，位于意识形态光谱右翼位置。</data>
+  <data key="d9">右翼派别,属于</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="黑暗启蒙/新反动主义">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义是加速主义派别之一，位于意识形态光谱极右位置。</data>
+  <data key="d9">属于,极右派别</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="互联网加速主义">
+  <data key="d7">1.0</data>
+  <data key="d8">互联网加速主义是加速主义在其他领域中的派别，主张通过互联网放大矛盾。</data>
+  <data key="d9">其他领域派别,属于</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="性别与种族加速主义">
+  <data key="d7">1.0</data>
+  <data key="d8">性别与种族加速主义是加速主义在其他领域中的派别，主张通过资本加速解决性别与种族歧视。</data>
+  <data key="d9">其他领域派别,属于</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="中国加速主义">
+  <data key="d7">1.0</data>
+  <data key="d8">中国加速主义是特定语境下对中国基建/技术国家主义的加速主义解读视角。</data>
+  <data key="d9">属于,特定语境解读</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="马列社会主义">
+  <data key="d7">1.0</data>
+  <data key="d8">马列社会主义在表格中被列为非加速主义派别，并作为加速主义意识形态光谱的坐标系参考。</data>
+  <data key="d9">坐标系参考,非加速主义</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="法西斯主义">
+  <data key="d7">1.0</data>
+  <data key="d8">法西斯主义在表格中被列为非加速主义派别，并作为加速主义意识形态光谱的坐标系参考。</data>
+  <data key="d9">坐标系参考,非加速主义</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="加速创造">
+  <data key="d7">1.0</data>
+  <data key="d8">加速创造是加速主义加速表现的方面之一，指加速系统内因素发展以促成旧系统崩溃或矛盾消除。</data>
+  <data key="d9">加速方面,包含</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="加速毁灭">
+  <data key="d7">1.0</data>
+  <data key="d8">加速毁灭是加速主义加速表现的方面之一，指加速激化系统内部矛盾直至系统崩溃或矛盾消除。</data>
+  <data key="d9">加速方面,包含</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="解辖域化">
+  <data key="d7">2.0</data>
+  <data key="d8">解辖域化是加速主义的部分主要术语之一，指不断加速的正循环，并最终迎来新生或毁灭。&lt;SEP&gt;解辖域化是加速主义的部分主要术语，指不断加速的正循环并迎来新生或毁灭。</data>
+  <data key="d9">使用,包含,定义,术语</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="加速主义鉴政手册">
+  <data key="d7">1.0</data>
+  <data key="d8">该手册对加速主义意识形态光谱进行学术分析。</data>
+  <data key="d9">主题,分析</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="技术进步主张">
+  <data key="d7">1.0</data>
+  <data key="d8">两者都推崇科学技术发展，但后续发展目的完全相反；技术进步主张认为技术服务于人类，加速主义认为技术或系统本身就是目的。</data>
+  <data key="d9">区别,同途殊归</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="科学技术">
+  <data key="d7">1.0</data>
+  <data key="d8">加速主义推崇科学技术发展，但将技术或系统本身视为目的，主张让机器脱离人的束缚。</data>
+  <data key="d9">推崇,视为目的</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="人的主体性">
+  <data key="d7">1.0</data>
+  <data key="d8">加速主义放弃并始终否认人的主体性，一切服务于技术进步和系统升级。</data>
+  <data key="d9">否认,放弃</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="矛盾">
+  <data key="d7">1.0</data>
+  <data key="d8">加速主义面对现存矛盾或旧系统弊端时，放弃人的主体地位，通过激化矛盾或加速技术发展实现旧系统升级或矛盾的消除。</data>
+  <data key="d9">消除,激化</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="加速主义者">
+  <data key="d7">1.0</data>
+  <data key="d8">加速主义者是信奉或声称信奉加速主义的人，但大量所谓加速主义者其实只是支持技术进步，并非真正的加速主义者。</data>
+  <data key="d9">信奉,声称</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="大教堂">
+  <data key="d7">1.0</data>
+  <data key="d8">大教堂被列为加速主义部分主要术语之一，其定义由新反动主义提出。</data>
+  <data key="d9">收录,术语</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="末世论">
+  <data key="d7">1.0</data>
+  <data key="d8">末世论是加速主义的部分主要术语，指加速带有文明毁灭或形态跃迁的终结叙事。</data>
+  <data key="d9">包含,带有</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="反生产">
+  <data key="d7">1.0</data>
+  <data key="d8">反生产是加速主义的部分主要术语，被视为系统内部的创造性破坏。</data>
+  <data key="d9">包含,视为</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="时间扭曲">
+  <data key="d7">1.0</data>
+  <data key="d8">时间扭曲是加速主义的部分主要术语，指未来通过技术折叠回现在并殖民现在。</data>
+  <data key="d9">使用,包含</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="零加速主义">
+  <data key="d7">1.0</data>
+  <data key="d8">零加速主义对加速本身进行元批判，倾向于停滞或减速。</data>
+  <data key="d9">元批判,反对</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="有效利他主义">
+  <data key="d7">1.0</data>
+  <data key="d8">有效利他主义反对加速主义的集权倾向与反人类倾向。</data>
+  <data key="d9">反对,批判</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="大萧条">
+  <data key="d7">1.0</data>
+  <data key="d8">在相关笑话中，加速主义者赞赏大萧条，认为它加速了资本主义的灭亡，对工人有利。</data>
+  <data key="d9">加速,赞赏</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="机器">
+  <data key="d7">1.0</data>
+  <data key="d8">加速主义主张让机器脱离人的束缚彻底咆哮，使机器成为技术实现自身进步的核心动力。</data>
+  <data key="d9">脱离束缚,释放</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="旧系统">
+  <data key="d7">1.0</data>
+  <data key="d8">加速主义面对现存矛盾或旧系统弊端时，通过不断激化矛盾或加速技术发展实现旧系统的升级或矛盾的消除。</data>
+  <data key="d9">升级,消除弊端</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="加速主义" target="人类">
+  <data key="d7">1.0</data>
+  <data key="d8">加速主义不在乎置身矛盾中人的感受，认为人无足轻重，始终否认人的主体性。</data>
+  <data key="d9">无足轻重,轻视</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会-加速主义" target="计划经济">
+  <data key="d7">2.0</data>
+  <data key="d8">社会-加速主义被认为追求计划经济模式的现代回归。&lt;SEP&gt;社会-加速主义在建设社会主义问题上的本质被描述为计划经济的反人类主体版本。</data>
+  <data key="d9">主张,反人类主体版本,本质,现代回归</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会-加速主义" target="资本主义">
+  <data key="d7">2.0</data>
+  <data key="d8">社会-加速主义认为资本主义尚未消亡，并主张激发资本主义内生矛盾以过渡到社会主义。&lt;SEP&gt;社会-加速主义主张支持加速资本主义的灭亡，并将其视为社会主义框架下加速主义构想的一部分。</data>
+  <data key="d9">加速灭亡,支持,激发,认为</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会-加速主义" target="社会主义">
+  <data key="d7">3.0</data>
+  <data key="d8">社会-加速主义主张从资本主义过渡到社会主义并进行社会主义建设。&lt;SEP&gt;社会-加速主义在社会主义框架下提出加速主义构想，并追求计划经济模式的现代回归。&lt;SEP&gt;社会-加速主义关注如何进入社会主义，并在建设社会主义时主张大力发展科技生产力、由各行业专家控制行业发展。</data>
+  <data key="d9">基于,建设,框架,过渡,进入</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-001&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会-加速主义" target="科学技术">
+  <data key="d7">1.0</data>
+  <data key="d8">社会-加速主义主张加速科学技术发展，以推动生产力发展，为社会主义创造条件。</data>
+  <data key="d9">加速,推动</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会-加速主义" target="生产力">
+  <data key="d7">1.0</data>
+  <data key="d8">社会-加速主义主张加速科技发展以推动生产力，认为需要具备发展社会主义的生产力条件。</data>
+  <data key="d9">发展,推动</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会-加速主义" target="工人">
+  <data key="d7">2.0</data>
+  <data key="d8">社会-加速主义主张激化工人与资本间的矛盾，引导或迫使工人反抗。&lt;SEP&gt;社会-加速主义主张激化工人与资本间的矛盾，并引导工人主动反抗。</data>
+  <data key="d9">引导,引导反抗,激化,激化矛盾</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会-加速主义" target="资本">
+  <data key="d7">2.0</data>
+  <data key="d8">社会-加速主义主张激化工人-资本间的矛盾，并利用资本主义内生矛盾。&lt;SEP&gt;社会-加速主义主张激化工人与资本间的矛盾，也可通过激化矛盾使工人被动反抗。</data>
+  <data key="d9">利用,激化,激化矛盾</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会-加速主义" target="暴力革命派">
+  <data key="d7">2.0</data>
+  <data key="d8">社会-加速主义内部对待从资本主义到社会主义的过渡问题分为暴力革命派。&lt;SEP&gt;社会-加速主义在对待如何进入社会主义的问题上分为暴力革命派。</data>
+  <data key="d9">分为,包含</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会-加速主义" target="议会改革派">
+  <data key="d7">2.0</data>
+  <data key="d8">社会-加速主义内部对待从资本主义到社会主义的过渡问题分为议会改革派。&lt;SEP&gt;社会-加速主义在对待如何进入社会主义的问题上分为议会改革派。</data>
+  <data key="d9">分为,包含</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会-加速主义" target="金融海啸">
+  <data key="d7">2.0</data>
+  <data key="d8">社会-加速主义主张通过引发金融海啸等方式激发资本主义内生矛盾。&lt;SEP&gt;输入文本将引发金融海啸视为社会-加速主义激化资本主义阵营矛盾的手段之一。</data>
+  <data key="d9">主张,制造,引发,激发</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会-加速主义" target="资本主义阵营内部战争">
+  <data key="d7">2.0</data>
+  <data key="d8">社会-加速主义主张通过引发资本主义阵营内部战争等方式激发资本主义内生矛盾。&lt;SEP&gt;输入文本将资本主义阵营内部战争视为社会-加速主义可能引发的冲突。</data>
+  <data key="d9">主张,制造,引发,激发</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会-加速主义" target="飞行汽车">
+  <data key="d7">1.0</data>
+  <data key="d8">社会-加速主义宣言表达了对飞行汽车等真正技术进步的期望，但得到的只是140个字的字数限制。</data>
+  <data key="d9">宣言,期望</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会-加速主义" target="科技生产力">
+  <data key="d7">1.0</data>
+  <data key="d8">在建设社会主义时，社会-加速主义主张大力发展科技生产力。</data>
+  <data key="d9">大力发展</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会-加速主义" target="工程师治国">
+  <data key="d7">1.0</data>
+  <data key="d8">社会-加速主义主张工程师治国，由各行业专家组成智囊团并像计划经济一样完全控制行业发展。</data>
+  <data key="d9">主张,实施</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会-加速主义" target="技术发展">
+  <data key="d7">1.0</data>
+  <data key="d8">社会-加速主义反对给技术发展设置限制，主张不断发展技术。</data>
+  <data key="d9">反对限制,支持发展</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会-加速主义" target="远视主义">
+  <data key="d7">1.0</data>
+  <data key="d8">远视主义加速对象是技术，不局限于社会或资本主义；社会-加速主义加速对象是整体制度，技术只是通向社会主义的手段。</data>
+  <data key="d9">区别,对比</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="远视主义" target="有效技术加速主义">
+  <data key="d7">1.0</data>
+  <data key="d8">远视主义是有效技术加速主义的主要对立分支。</data>
+  <data key="d9">对立分支</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="远视主义" target="国家">
+  <data key="d7">1.0</data>
+  <data key="d8">远视主义主张由国家主导并加速整体科技领域的发展。</data>
+  <data key="d9">主导加速,主张</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="远视主义" target="科技领域">
+  <data key="d7">1.0</data>
+  <data key="d8">远视主义主张国家主导并加速科技领域发展，反对给技术发展设置限制。</data>
+  <data key="d9">主导,加速</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="远视主义" target="科学技术">
+  <data key="d7">1.0</data>
+  <data key="d8">远视主义认为落后的科学技术是人类尚未成为星际文明的原因，并关注科技领域的缓慢发展。</data>
+  <data key="d9">关注,归因</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="远视主义" target="星际文明">
+  <data key="d7">1.0</data>
+  <data key="d8">远视主义者认为人类尚未成长为星际文明，落后的科学技术是原因。</data>
+  <data key="d9">尚未达到,目标</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="远视主义" target="大政府">
+  <data key="d7">1.0</data>
+  <data key="d8">远视主义主张以大政府方式主导整个社会尤其是科技领域的发展。</data>
+  <data key="d9">主张,治理</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="远视主义" target="社会">
+  <data key="d7">1.0</data>
+  <data key="d8">远视主义希望通过技术突破以点带面改变整个社会，以技术倒逼社会改变。</data>
+  <data key="d9">倒逼,改变</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="远视主义" target="技术">
+  <data key="d7">1.0</data>
+  <data key="d8">远视主义的加速对象是技术，强调技术对社会整体的作用。</data>
+  <data key="d9">加速对象,强调</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="远视主义" target="国家-资本-市场三方机制">
+  <data key="d7">1.0</data>
+  <data key="d8">远视主义内部更主张国家-资本-市场三方机制，而非完全的计划经济模式。</data>
+  <data key="d9">主张,支持</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="远视主义" target="计划经济">
+  <data key="d7">1.0</data>
+  <data key="d8">远视主义内部并不是都赞同完全的计划经济模式。</data>
+  <data key="d9">不赞同,部分否定</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="远视主义" target="人类">
+  <data key="d7">1.0</data>
+  <data key="d8">远视主义认为科学技术的缓慢发展拖慢了整体人类社会的发展。</data>
+  <data key="d9">影响,拖慢</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="远视主义" target="人工智能">
+  <data key="d7">1.0</data>
+  <data key="d8">远视主义者特别赞赏人工智能的发展速度，将人工智能视为重点科技领域。</data>
+  <data key="d9">关注,赞赏</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="远视主义" target="太空探索">
+  <data key="d7">1.0</data>
+  <data key="d8">远视主义者强调太空探索是重点科技领域，主张由国家主导加速其发展。</data>
+  <data key="d9">关注,强调</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="远视主义" target="生物医药">
+  <data key="d7">1.0</data>
+  <data key="d8">远视主义者强调生物医药是重点科技领域，主张由国家主导加速其发展。</data>
+  <data key="d9">关注,强调</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="乐观技术加速主义" target="有效技术加速主义">
+  <data key="d7">1.0</data>
+  <data key="d8">乐观技术加速主义是有效技术加速主义的主要依附分支。</data>
+  <data key="d9">依附分支</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="乐观技术加速主义" target="技术加速">
+  <data key="d7">1.0</data>
+  <data key="d8">乐观技术加速主义肯定技术加速有一定危险，但否定给技术加速设置过多限制。</data>
+  <data key="d9">反对限制,承认危险</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="乐观技术加速主义" target="技术">
+  <data key="d7">1.0</data>
+  <data key="d8">乐观技术加速主义认为目前对技术的限制过多，反对给技术加速设置过多限制。</data>
+  <data key="d9">否定,限制过多</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="防御技术加速主义" target="有效技术加速主义">
+  <data key="d7">1.0</data>
+  <data key="d8">防御技术加速主义是有效技术加速主义的主要依附分支。</data>
+  <data key="d9">依附分支</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="防御技术加速主义" target="技术发展">
+  <data key="d7">1.0</data>
+  <data key="d8">防御技术加速主义认为无条件的技术发展是危险的，应当对技术发展有所限制。</data>
+  <data key="d9">危险,应当限制</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="有效技术加速主义" target="无条件技术加速主义">
+  <data key="d7">1.0</data>
+  <data key="d8">无条件技术加速主义被认为是有效技术加速主义的plus版本。</data>
+  <data key="d9">plus版本,升级</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="有效技术加速主义" target="当代社会">
+  <data key="d7">1.0</data>
+  <data key="d8">有效技术加速主义认为加速是当代社会的唯一美德。</data>
+  <data key="d9">加速,唯一美德</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="法西斯主义" target="黑暗启蒙/新反动主义">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义被认为比法西斯主义还要糟糕，因为主体不是人类而是用技术替换大多数人。</data>
+  <data key="d9">更糟糕,比较</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="法西斯主义" target="人类">
+  <data key="d7">1.0</data>
+  <data key="d8">法西斯主义的主体还是人类，用极端暴力维护特定群体的利益。</data>
+  <data key="d9">主体,维护利益</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="法西斯主义" target="资本主义国家">
+  <data key="d7">1.0</data>
+  <data key="d8">法西斯主义是资本主义国家内部出现崩溃时转向对外掠夺奴役以缓解危机的产物。</data>
+  <data key="d9">出现,源于</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="黑暗启蒙/新反动主义" target="封建君主制">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义被认为是封建君主制的现代回归。</data>
+  <data key="d9">主张,现代回归</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="黑暗启蒙/新反动主义" target="大教堂">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义将所有赞扬民主政治的高等教育和新闻媒体统称为大教堂。</data>
+  <data key="d9">定义,术语</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="黑暗启蒙/新反动主义" target="意识形态宗教">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义认为民主政治已经变成意识形态宗教。</data>
+  <data key="d9">批判,认定</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="黑暗启蒙/新反动主义" target="民主">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义认为民主只是历史的例外，并认为民主政治限制了精英对社会的控制。</data>
+  <data key="d9">历史例外,否定</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="黑暗启蒙/新反动主义" target="资本主义">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义试图将资本主义从内生的矛盾中拯救出来，以回应资本主义危机与社会主义崛起。</data>
+  <data key="d9">拯救,挽救</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="黑暗启蒙/新反动主义" target="社会主义">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义是资本主义面对自身危机与社会主义崛起的回应，主张对外向社会主义国家重拳出击。</data>
+  <data key="d9">回应,敌对</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="黑暗启蒙/新反动主义" target="大多数人">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义用技术淘汰绝大多数人，将技术的铁拳对准沉默的大多数。</data>
+  <data key="d9">敌视,淘汰</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="黑暗启蒙/新反动主义" target="人工智能">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义主张用不断加速的人工智能替换大多数人，以永久防止民选对精英的限制。</data>
+  <data key="d9">使用,替换</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="黑暗启蒙/新反动主义" target="民选政治">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义认为低效臃肿的民选政治导致资本主义堕落，并限制精英对社会的控制。</data>
+  <data key="d9">批判,限制</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="黑暗启蒙/新反动主义" target="社会主义工人革命">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义用技术淘汰大多数人以避免社会主义工人革命。</data>
+  <data key="d9">避免,防止</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="黑暗启蒙/新反动主义" target="技术">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义的本质是将技术异化为淘汰人类的工具，将技术的铁拳对准沉默的大多数。</data>
+  <data key="d9">异化,淘汰人类</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="黑暗启蒙/新反动主义" target="凯撒">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义呼吁凯撒，以对内镇压民众并不断加速科技、对外打击社会主义国家。</data>
+  <data key="d9">主张,呼吁</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="黑暗启蒙/新反动主义" target="君主制">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义宣言指出古代大多数时候是君主制，以此论证民主只是历史的例外。</data>
+  <data key="d9">宣言,认同</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="封建君主制" target="民主政治">
+  <data key="d7">1.0</data>
+  <data key="d8">在黑暗启蒙/新反动主义的论述中，民主政治自取代封建君主专制后成为新的意识形态宗教。</data>
+  <data key="d9">取代,更替</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="民主政治" target="大教堂">
+  <data key="d7">2.0</data>
+  <data key="d8">大教堂指代赞扬民主政治的高等教育和新闻媒体。&lt;SEP&gt;大教堂被定义为赞扬民主政治的高等教育与新闻媒体的统称。</data>
+  <data key="d9">代表,推崇,赞扬</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="民主政治" target="意识形态宗教">
+  <data key="d7">1.0</data>
+  <data key="d8">在黑暗启蒙/新反动主义看来，民主政治自取代封建君主专制后已成为新的意识形态宗教。</data>
+  <data key="d9">成为,转变</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="民主政治" target="新反动主义">
+  <data key="d7">1.0</data>
+  <data key="d8">新反动主义认为民主政治在取代封建君主专制后已成为新的意识形态宗教。</data>
+  <data key="d9">批判,视为</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="民主政治" target="封建君主专制">
+  <data key="d7">1.0</data>
+  <data key="d8">民主政治自取代封建君主专制后成为新反动主义眼中的意识形态宗教。</data>
+  <data key="d9">取代</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="大教堂" target="新反动主义">
+  <data key="d7">1.0</data>
+  <data key="d8">新反动主义将赞扬民主政治的高等教育与新闻媒体统称为大教堂。</data>
+  <data key="d9">定义,提出</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="大教堂" target="高等教育">
+  <data key="d7">1.0</data>
+  <data key="d8">大教堂统称所有赞扬民主政治的高等教育机构。</data>
+  <data key="d9">包含,统称</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="大教堂" target="新闻媒体">
+  <data key="d7">1.0</data>
+  <data key="d8">大教堂统称所有赞扬民主政治的新闻媒体。</data>
+  <data key="d9">包含,统称</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="计划经济" target="技术">
+  <data key="d7">1.0</data>
+  <data key="d8">社会-加速主义所称计划的目的是不断发展技术并反对给技术发展设置限制。</data>
+  <data key="d9">不设限,发展</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="资本主义" target="大萧条">
+  <data key="d7">1.0</data>
+  <data key="d8">在加速主义者看来，大萧条加速了资本主义的灭亡，并被认为对工人有利。</data>
+  <data key="d9">加速灭亡,有利</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="资本主义" target="社会-加速主义者">
+  <data key="d7">1.0</data>
+  <data key="d8">社会-加速主义者认为资本主义尚且未消亡，并主张激发其内生矛盾以推动其灭亡。</data>
+  <data key="d9">未消亡,认为</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="资本主义" target="凯撒">
+  <data key="d7">1.0</data>
+  <data key="d8">资本主义需要一个凯撒来对内暴力镇压民众、不断加速科技，对外向社会主义国家重拳出击。</data>
+  <data key="d9">召唤,需要</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="资本主义" target="社会主义">
+  <data key="d7">1.0</data>
+  <data key="d8">资本主义为了避免被社会主义取代而选择自废武功，导致资本主义不断堕落。</data>
+  <data key="d9">取代,对立</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="资本主义" target="社会">
+  <data key="d7">1.0</data>
+  <data key="d8">资本主义选择自废武功，不断竖切社会，加剧了自身的堕落。</data>
+  <data key="d9">割裂,竖切</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="资本主义" target="民选政治">
+  <data key="d7">1.0</data>
+  <data key="d8">资本主义为避免被社会主义取代而选择自废武功，采用低效臃肿的民选政治，导致资本主义不断堕落。</data>
+  <data key="d9">导致堕落,选择</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="资本主义" target="黑暗启蒙">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义试图将资本主义从其内生矛盾中拯救出来。</data>
+  <data key="d9">拯救</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="资本主义" target="资本主义的内在矛盾">
+  <data key="d7">1.0</data>
+  <data key="d8">资本主义具有内生矛盾，这一矛盾成为其需要被拯救的原因。</data>
+  <data key="d9">具有,包含</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="资本主义" target="内生的矛盾">
+  <data key="d7">1.0</data>
+  <data key="d8">资本主义具有内生的矛盾，这一矛盾导致资本主义需要被拯救。</data>
+  <data key="d9">具有,包含</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会主义" target="生产力">
+  <data key="d7">1.0</data>
+  <data key="d8">社会-加速主义认为必须推动生产力发展，才具备发展社会主义的条件。</data>
+  <data key="d9">基础,条件</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会主义" target="全球分工">
+  <data key="d7">1.0</data>
+  <data key="d8">社会-加速主义认为全球分工导致了社会主义向资本妥协。</data>
+  <data key="d9">妥协,导致</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会主义" target="社会-加速主义者">
+  <data key="d7">1.0</data>
+  <data key="d8">社会-加速主义者认为生产力仍不够发达，尚不具备成立社会主义国家的条件。</data>
+  <data key="d9">条件不足,认为</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="学校" target="公共洗衣机">
+  <data key="d7">1.0</data>
+  <data key="d8">学校在舆情发酵后介入，购置新的洗衣机以解决公共洗衣机供需矛盾。</data>
+  <data key="d9">介入,购置</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="公共洗衣机" target="女生宿舍">
+  <data key="d7">1.0</data>
+  <data key="d8">女生宿舍内配置有10台公共洗衣机，因需求较大处于供不应求状态。</data>
+  <data key="d9">拥有,配置</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="公共洗衣机" target="男生宿舍">
+  <data key="d7">1.0</data>
+  <data key="d8">男生宿舍内配置有10台公共洗衣机，后因标签事件导致可用数量减少。</data>
+  <data key="d9">拥有,配置</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="新反动主义" target="黑暗启蒙">
+  <data key="d7">1.0</data>
+  <data key="d8">文本通过斜杠将新反动主义与黑暗启蒙并列使用，指代同一思潮。</data>
+  <data key="d9">并列,等同</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="技术进步主张" target="科学技术">
+  <data key="d7">1.0</data>
+  <data key="d8">技术进步主张将科学技术视为提高生产效率、解放人类并服务于人类的工具。</data>
+  <data key="d9">工具,服务</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="技术进步主张" target="加速主义者">
+  <data key="d7">1.0</data>
+  <data key="d8">互联网上众多所谓的加速主义者不了解加速主义本质，实际上只是支持技术进步主张。</data>
+  <data key="d9">支持,混淆</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="技术进步主张" target="人类">
+  <data key="d7">1.0</data>
+  <data key="d8">技术进步主张将人从机器上解放出来，使技术服务于人类，人类是技术进步的主体。</data>
+  <data key="d9">服务,解放</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="技术进步主张" target="机器">
+  <data key="d7">1.0</data>
+  <data key="d8">技术进步主张的本质是将人从机器上解放出来，机器被视为人类需要摆脱的束缚。</data>
+  <data key="d9">摆脱,解放</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="科学技术" target="人类">
+  <data key="d7">1.0</data>
+  <data key="d8">在加速主义看来，人类只是科学技术为实现自身进步所利用的载体。</data>
+  <data key="d9">利用,载体</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="人类" target="技术">
+  <data key="d7">1.0</data>
+  <data key="d8">技术被异化为淘汰人类的工具，并在加速后达到反人类的地步。</data>
+  <data key="d9">反人类,淘汰</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会主义国家" target="全球分工">
+  <data key="d7">1.0</data>
+  <data key="d8">现存社会主义国家因生产力不发达必须参与全球分工。</data>
+  <data key="d9">参与,导致</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会主义国家" target="生产力">
+  <data key="d7">1.0</data>
+  <data key="d8">社会-加速主义认为现存社会主义国家因生产力不够发达而必须参与全球分工，导致社会主义向资本妥协。</data>
+  <data key="d9">不足,制约</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会主义国家" target="资本">
+  <data key="d7">1.0</data>
+  <data key="d8">现存社会主义国家因生产力不发达参与全球分工，最终导致社会主义向资本妥协。</data>
+  <data key="d9">妥协</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会主义国家" target="社会-加速主义者">
+  <data key="d7">1.0</data>
+  <data key="d8">社会-加速主义者认为现存社会主义国家因生产力不发达必须参与全球分工，导致社会主义向资本妥协。</data>
+  <data key="d9">妥协,认为</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会主义国家" target="凯撒">
+  <data key="d7">1.0</data>
+  <data key="d8">凯撒对外向社会主义国家重拳出击。</data>
+  <data key="d9">打击,敌对</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="工人" target="资本">
+  <data key="d7">2.0</data>
+  <data key="d8">工人-资本之间的矛盾是社会-加速主义主张激发和利用的核心矛盾。&lt;SEP&gt;工人与资本之间存在被社会-加速主义激化的阶级矛盾。</data>
+  <data key="d9">对立,矛盾</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="飞行汽车" target="140个字的字数限制">
+  <data key="d7">1.0</data>
+  <data key="d8">飞行汽车代表理想中的技术产品，140个字的字数限制代表现实中的受限产物，二者形成落差。</data>
+  <data key="d9">对比,落差</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="技术" target="民主">
+  <data key="d7">2.0</data>
+  <data key="d8">民主对技术形成限制，黑暗启蒙/新反动主义试图通过呼吁凯撒来避免这种限制。&lt;SEP&gt;黑暗启蒙/新反动主义呼吁凯撒是为了避免民主对技术的限制，从而将技术加速到反人类的地步。</data>
+  <data key="d9">阻碍,限制</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002&lt;SEP&gt;doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="技术" target="黑暗启蒙">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义将技术异化为淘汰人类的工具，并将其加速到反人类的地步。</data>
+  <data key="d9">加速,异化</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="技术" target="凯撒">
+  <data key="d7">1.0</data>
+  <data key="d8">凯撒对内不断加速科技，这是黑暗启蒙/新反动主义提出的解决方法之一。</data>
+  <data key="d9">加速,推动</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="人工智能" target="大多数人">
+  <data key="d7">1.0</data>
+  <data key="d8">人工智能被用于替换和淘汰大多数人，从而避免社会主义工人革命。</data>
+  <data key="d9">替换,淘汰</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="社会" target="精英">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义认为精英应控制社会，但民主政治限制了这种控制。</data>
+  <data key="d9">主导,控制</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="民主" target="黑暗启蒙">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义呼吁凯撒，以避免民主对技术的限制。</data>
+  <data key="d9">规避,避免限制</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="民选政治" target="精英">
+  <data key="d7">1.0</data>
+  <data key="d8">民选政治限制了精英对社会的控制，从而限制了人类的发展。</data>
+  <data key="d9">约束,限制</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="精英" target="英雄史观">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义基于英雄史观，认为精英应控制社会，民主限制了人类发展。</data>
+  <data key="d9">依据,支持</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="凯撒" target="民众">
+  <data key="d7">1.0</data>
+  <data key="d8">凯撒对内暴力镇压民众，并不断加速科技。</data>
+  <data key="d9">暴力镇压</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="凯撒" target="黑暗启蒙">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义呼吁凯撒，以避免民主对技术的限制。</data>
+  <data key="d9">呼吁</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="黑暗启蒙" target="沉默的大多数">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义将技术的铁拳对准沉默的大多数。</data>
+  <data key="d9">对准,针对</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="黑暗启蒙" target="资本主义的内在矛盾">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义试图使资本主义摆脱其内生矛盾。</data>
+  <data key="d9">摆脱,消除</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="黑暗启蒙" target="内生的矛盾">
+  <data key="d7">1.0</data>
+  <data key="d8">黑暗启蒙/新反动主义试图使资本主义摆脱其内生的矛盾。</data>
+  <data key="d9">摆脱,消除</data>
+  <data key="d10">doc-df182c30660a22454291500c4c7b8508-chunk-003</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1787108170</data>
+  <data key="d13"></data>
+</edge>
+</graph></graphml>

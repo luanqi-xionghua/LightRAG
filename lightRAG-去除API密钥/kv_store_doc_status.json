@@ -1,0 +1,32 @@
+{
+  "doc-df182c30660a22454291500c4c7b8508": {
+    "status": "processed",
+    "content_summary": "#  加速主义鉴政手册\n\n==本手册仅对加速主义意识形态光谱做学术分析，不代表本人任何政治观点==\n\n## 加速主义总览\n\n### 主流加速主义派别总览\n\n#### 政治领域\n\n| 加速主义派别 |       马列社会主义       | 社会-加速主义                                                | 远视主义                     | 乐观技术加速主义             | 防御技术加速主义             |...",
+    "content_length": 5338,
+    "created_at": "2026-08-19T02:56:10.681647+00:00",
+    "updated_at": "2026-08-19T02:56:17.523155+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260819_105610_8089b5f3",
+    "content_hash": "df182c30660a22454291500c4c7b8508",
+    "metadata": {
+      "parse_start_time": 1787108170,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1787108170,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1787108170,
+      "process_end_time": 1787108177,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 4,
+    "chunks_list": [
+      "doc-df182c30660a22454291500c4c7b8508-chunk-000",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-001",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-002",
+      "doc-df182c30660a22454291500c4c7b8508-chunk-003"
+    ]
+  }
+}
